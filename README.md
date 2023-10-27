@@ -1,5 +1,5 @@
 # Robot-Game 
-this is a game i made as good bye gift for java:)
+I made this game so i can understand better the special class "enum".
+There is different levels to this game , the higher level you get the lower the timer you have and there will be more directions 
 
-https://github.com/mushari44/Robot-Game/assets/82417962/2c4a54de-9e0e-4df5-89d9-77149c4e3781
-i will try to do more projects in python from now 
+![robot](https://github.com/mushari44/Robot-Game/assets/82417962/f8fa5314-1b1c-4cf3-b0e2-4cc9feb25134)
