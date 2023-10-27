@@ -1,9 +1,3 @@
-
-
-//Don't change code below
-
-
-
     class Robot {
         private int x;
         private int y;
@@ -50,7 +44,6 @@
             return x;
         }
                 public int getY() {
-
             return y;
 
         }
